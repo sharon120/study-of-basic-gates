@@ -93,7 +93,7 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/52f97bc5-adb8-48dd-9bb9-bd587d85e1c5)
 
-**Output:**
+**RTL**
 
 ![image](https://github.com/user-attachments/assets/9675afe3-9f80-48e1-993e-aa4d177444e0)
 
